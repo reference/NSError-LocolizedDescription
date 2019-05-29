@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "NSError+LocolizedDescription"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "NSError+LocolizedDescription"
   s.homepage     = "https://github.com/reference/NSError-LocolizedDescription"
   s.description  = <<-DESC
